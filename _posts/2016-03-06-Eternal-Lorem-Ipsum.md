@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Best Linux Penetration Testing Distributions
-author: Author Name
+author: Abhiram
 ---
 
 Group of Special purpose Linux distributions used for analysing and evaluating system and network security
 
-## LINUX DISTRIBUTIONS 
+##  Eternal-Lorem-Ipsum?
 -----
 
 
