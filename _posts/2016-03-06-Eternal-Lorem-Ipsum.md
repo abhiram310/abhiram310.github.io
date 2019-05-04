@@ -1,15 +1,20 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
+title: Best Linux Penetration Testing Distributions
 author: Author Name
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. 
+Group of Special purpose Linux distributions used for analysing and evaluating system and network security
 
-## The Eternal Lorem Ipsum? 
+## LINUX DISTRIBUTIONS 
 -----
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
-
+1) KALI LINUX: http://n0where.net/kali-linux/
+    pre installed with: nmap (a port scanner), Wireshark (a packet analyzer), John the Ripper (a password cracker), Aircrack-ng (a software suite for penetration-testing wireless LANs), Burp suite and OWASP ZAP (both web application security scanners). 
+    
+2) PENTOO: http://n0where.net/pentoo/
+    It features packet injection patched wifi drivers, GPGPU cracking software, and lots of tools for penetration testing and security assessment.
+    
+3) BACKBOX: http://n0where.net/backbox/
+      It includes some of the most used security and analysis Linux tools, aiming for a wide spread of goals, ranging from web application analysis to network analysis, from stress tests to sniffing, also including vulnerability assessment, computer forensic analysis and exploitation.
